@@ -15,7 +15,7 @@ coverage==5.5
 epix==0.2.2
 flake8==4.0.1
 holoviews==1.14.5
-ipywidgets==7.6.4
+ipywidgets==8.0.1
 hypothesis==6.24.1
 jupyter-client==7.0.2                          # for ipywidgets
 matplotlib==3.4.3
