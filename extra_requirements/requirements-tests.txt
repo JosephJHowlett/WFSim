@@ -7,7 +7,7 @@ awkward==1.5.1
 blosc==1.10.6                                   # Strax dependency
 boltons==21.0.0
 datashader==0.13.0
-dask==2021.10.0
+dask==2022.12.1
 dill==0.3.4                                     # Strax dependency
 coveralls==3.2.0
 commentjson==0.9.0
